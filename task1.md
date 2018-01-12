@@ -1,2 +1,2 @@
 ### Доброго времени суток!
-Ссылка на мой moodlecloud: 	iltatser.moodlecloud.com
+Ссылка на мой moodlecloud: 	https://iltatser.moodlecloud.com
